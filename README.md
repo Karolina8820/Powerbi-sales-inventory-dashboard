@@ -50,6 +50,16 @@ The dashboard is built using a relational data model combining sales, purchasing
 - Data Visualization
 - Business Analysis
 - Procurement & Inventory Analysis
+- ## What I Learned
+
+- Building and structuring a relational data model in Power BI
+- Creating relationships between fact and dimension tables
+- Writing DAX measures for sales, purchasing and inventory analysis
+- Using `CALCULATE`, `SUMX`, `DIVIDE` and `USERELATIONSHIP`
+- Creating interactive dashboards with KPIs, slicers and visualizations
+- Analyzing sales, products, vendors and inventory performance
+- Using Top N filters to identify key brands, vendors and stores
+- Designing dashboards with a focus on business insights and decision-making
 
 ## Dashboard Preview
 
