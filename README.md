@@ -50,20 +50,20 @@ An interactive Power BI dashboard designed to analyze sales performance, product
 - Business Analysis
 - Procurement & Inventory Analysis
 
-- ## Dashboard Preview
+## Dashboard Preview
 
 ### Sales Overview
 
-![Sales Overview](screenshots/Sales Overview.png)
+![Sales Overview](sales-overview.png)
 
 ### Product Analysis
 
-![Product Analysis](screenshots/Product Analysis.png)
+![Product Analysis](product-analysis.png)
 
 ### Vendor Analysis
 
-![Vendor Analysis](screenshots/vendor-analysis.png)
+![Vendor Analysis](vendor-analysis.png)
 
 ### Inventory Analysis
 
-![Inventory Analysis](screenshots/inventory-analysis.png)
+![Inventory Analysis](inventory-analysis.png)
