@@ -3,6 +3,7 @@
 **Power BI | Data Analysis | Procurement | Inventory Management**
 
 An interactive Power BI dashboard designed to analyze sales performance, product and brand performance, vendor activity, and inventory levels.
+The dashboard is built using a relational data model combining sales, purchasing, product, vendor, store and inventory data. DAX measures were created to support KPI calculations and business analysis.
 
 ## Dashboard Pages
 
