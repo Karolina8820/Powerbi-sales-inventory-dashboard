@@ -1,7 +1,3 @@
-Sales & Inventory Analytics Dashboard
-
-Power BI | Data Analysis | Procurement | Inventory Management
-
 # Sales & Inventory Analytics Dashboard
 
 **Power BI | Data Analysis | Procurement | Inventory Management**
